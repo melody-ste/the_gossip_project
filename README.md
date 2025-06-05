@@ -1,24 +1,17 @@
-# README
+# The gossip project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+This is a simple social media-like web application built with Ruby on Rails. Inspired by gossip and messaging apps, it allows users to create profiles, share gossips, tag them, and send private messages to other users.
 
-* Ruby version
+ - The main features include:
 
-* System dependencies
+ - User profiles with personal details and associated city
 
-* Configuration
+ - Creation of gossips (posts) by users
 
-* Database creation
+ - Tagging system to categorize gossips
 
-* Database initialization
+ - Private messaging system with multiple recipients
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ - Associations between users, cities, gossips, tags, and messages
